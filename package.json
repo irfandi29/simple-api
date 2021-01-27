@@ -8,7 +8,7 @@
     "start": "node app"
   },
   "keywords": [],
-  "author": "",
+  "author": "@irfnd.iqbl",
   "license": "ISC",
   "dependencies": {
     "airtable": "^0.10.1",
