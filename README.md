@@ -1,5 +1,5 @@
 # Simple REST-API
 
-using **Express**, **Airtable**
+using **Express** and **Airtable**
 
 ## Demo
